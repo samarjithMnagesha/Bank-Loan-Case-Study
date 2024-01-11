@@ -49,3 +49,5 @@ E. Identify Top Correlations for Different Scenarios: Understanding the correlat
 Task: Segment the dataset based on different scenarios (e.g., clients with payment difficulties and all other cases) and identify the top correlations for each segmented data using Excel functions.
 Hint: Utilize Excel functions like CORREL to calculate correlation coefficients between variables and the target variable within each segment. Rank the correlations to identify the top indicators of loan default for each scenario.
 Graph suggestion: Create correlation matrices or heatmaps to visualize the correlations between variables within each segment. Highlight the top correlated variables for each scenario using different colors or shading.
+Excel_sheet_link=
+https://docs.google.com/spreadsheets/d/18ogiujClVHCsqdIQ56u18lST_4FVsYPy/edit?usp=sharing&ouid=118439998565682353976&rtpof=true&sd=true 
